@@ -1,5 +1,8 @@
 import React from "react";
+import Main from "./main";
 
-const App = () => <h1>Teste</h1>;
+const App = () => {
+  return <Main />;
+};
 
 export default App;
